@@ -15,7 +15,6 @@
  */
 package com.neovisionaries.i18n;
 
-
 import java.util.Currency;
 import java.util.HashMap;
 import java.util.Locale;
